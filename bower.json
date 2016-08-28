@@ -1,0 +1,28 @@
+{
+  "name": "custom",
+  "authors": [
+    "daniel-llach <daniel.llach@gmail.com>"
+  ],
+  "description": "custom",
+  "main": [
+    "components/custom.js",
+    "components/custom.css"
+  ],
+  "moduleType": "es6",
+  "keywords": [
+    "mockup",
+    "devices",
+    "show"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
